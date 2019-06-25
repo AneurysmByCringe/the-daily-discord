@@ -6,11 +6,11 @@ Utilizes free APIs to push out news and weather information whenever you want.
 **News:** Powered by NewsAPI.org 
 [NewsAPI](https://newsapi.org)  
 **Weather:** Powered by OpenWeatherMap
-[OpenWeatherMap] (https://openweathermap.org)
+[OpenWeatherMap](https://openweathermap.org)
 
 ## Usage
-- Weather: $weather <City Name (For cities with spaces use '+')>
-- News: $news <2-letter Country Code> <Category>
+- Weather: $weather 'City Name (For cities with spaces use '+')'
+- News: $news '2-letter country code' 'news category'
 
 ## Other stuff
 Make sure to not forget all the tokens you need for this thing to work. They are all functional within their free plans.
