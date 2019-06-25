@@ -8,9 +8,9 @@ Utilizes free APIs to push out news and weather information whenever you want.
 **Weather:** Powered by OpenWeatherMap
 [OpenWeatherMap] (https://openweathermap.org)
 
-##Usage
+## Usage
 - Weather: $weather <City Name (For cities with spaces use '+')>
 - News: $news <2-letter Country Code> <Category>
 
-##Other stuff
+## Other stuff
 Make sure to not forget all the tokens you need for this thing to work. They are all functional within theire free plans.
