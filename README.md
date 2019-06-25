@@ -13,4 +13,4 @@ Utilizes free APIs to push out news and weather information whenever you want.
 - News: $news <2-letter Country Code> <Category>
 
 ## Other stuff
-Make sure to not forget all the tokens you need for this thing to work. They are all functional within theire free plans.
+Make sure to not forget all the tokens you need for this thing to work. They are all functional within their free plans.
