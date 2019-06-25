@@ -2,9 +2,9 @@
 Discord Bot for Discord Hack Week. Spits out news and weather information whenever you want.
 
 ## How It Works
-Utilizes free APIs to push out news and weather information whenever you want.\n
+Utilizes free APIs to push out news and weather information whenever you want.  
 **News:** Powered by NewsAPI.org 
-[NewsAPI](https://newsapi.org) \n
+[NewsAPI](https://newsapi.org)  
 **Weather:** Powered by OpenWeatherMap
 [OpenWeatherMap] (https://openweathermap.org)
 
